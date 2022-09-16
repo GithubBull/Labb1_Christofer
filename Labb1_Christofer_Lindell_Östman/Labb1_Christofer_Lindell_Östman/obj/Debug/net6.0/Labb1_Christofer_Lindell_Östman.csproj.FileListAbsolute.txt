@@ -1,0 +1,2 @@
+C:\Users\chrli\Desktop\Plugg\.Net utveckling\Labb 1 - Versionshantering-20220912\Labb1_Christofers_program\Labb1_Christofer_Lindell_Östman\Labb1_Christofer_Lindell_Östman\obj\Debug\net6.0\Labb1_Christofer_Lindell_Östman.csproj.AssemblyReference.cache
+C:\Users\chrli\Desktop\Plugg\.Net utveckling\Labb 1 - Versionshantering-20220912\Labb1_Christofers_program\Labb1_Christofer_Lindell_Östman\Labb1_Christofer_Lindell_Östman\obj\Debug\net6.0\Labb1_Christofer_Lindell_Östman.GeneratedMSBuildEditorConfig.editorconfig

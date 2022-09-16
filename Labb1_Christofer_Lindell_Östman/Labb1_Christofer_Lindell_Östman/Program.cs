@@ -5,6 +5,8 @@
 
 bool isRunning = true;
 
+var king = 0;
+
 while (isRunning)
 {
     DisplayMenu();
