@@ -6,6 +6,7 @@
 bool isRunning = true;
 
 var king = 0;
+king = 1;
 
 while (isRunning)
 {
